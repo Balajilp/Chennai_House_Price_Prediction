@@ -1,7 +1,8 @@
 # CHENNAI HOUSE PRICE PREDICTION
 
+![8ea777e7-fdb4-4541-9acb-8c5ef7d61bec_FABaqL6V](https://user-images.githubusercontent.com/88379464/159073263-80867a63-28c2-4232-9b68-3a79705dabdd.gif)
 
-![Screenshot (129)](https://user-images.githubusercontent.com/88379464/159037929-9aab11d5-a66b-44f6-91e9-bd7bfb38dc27.png)
+
 
 ### Problem Statement
 Real estate transactions are quite opaque sometimes and it may be difficult for a newbie to know the fair price of any given home. Thus, multiple real estate websites have the functionality to predict the prices of houses given different features regarding it. Such forecasting models will help buyers to identify a fair price for the home and also give insights to sellers as to how to build homes that fetch them more money. Chennai house sale price data is shared here and the participants are expected to build a sale price prediction model that will aid the customers to find a fair price for their homes and also help the sellers understand what factors are fetching more money for the houses?
